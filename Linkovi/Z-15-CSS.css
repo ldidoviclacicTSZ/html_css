@@ -1,0 +1,15 @@
+h1{
+    font-family: "Verdana", serif;
+    font-size: 40em;
+    font-weight: bolder;
+}
+p{
+    font-family: "Tahoma", serif;
+    font-size: 12em;
+    font-weight: lighter;
+}
+.p2{
+    font-size: 12em;
+    font-weight: 300;
+    font-weight: bold;
+}
