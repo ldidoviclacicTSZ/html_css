@@ -1,0 +1,18 @@
+.link1{
+    a:link{
+        background-color: green;
+    }
+}
+.link2{
+    a:link{
+        background-color: red;
+    }
+}
+.link3{
+    a:link{
+        background-color: yellow;
+    }
+}
+a:visited{}
+a:hover{text-decoration: none;}
+a:active{}
