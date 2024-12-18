@@ -1,0 +1,10 @@
+ol{
+    background-color: blueviolet;
+    list-style-position: inside;
+    list-style-image: url("Images/im.png");
+}
+ul{
+    list-style-image: url("Images/ikona.jpg");
+    background-color: yellow;
+    list-style-position: outside;
+}
