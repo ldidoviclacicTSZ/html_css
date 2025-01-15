@@ -1,0 +1,7 @@
+.pinset{
+    border-style: inset;
+}
+.pthin{
+    border-bottom: solid thin;
+    border-top: solid thin;
+}

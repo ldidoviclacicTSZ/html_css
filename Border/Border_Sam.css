@@ -1,0 +1,50 @@
+.p1{
+    border-style: inset;
+    color: red;
+    margin: 20px 30px 10px 30px;
+}
+.p2{
+    border-style: inherit;
+    color: blue;
+    margin: 200px;
+}
+.p3{
+    border-style: double;
+    color: green;
+    margin: 50px 10px;
+}
+.p4{
+    border-style: dashed;
+    color: yellow;
+    margin-left: 100px;
+}
+.p5{
+    border-style: dotted;
+    color: limegreen;
+    margin: 50px 12px 10px 10px;
+}
+.p6{
+    border-style: solid;
+    color: orange;
+    margin: 15px 25px;
+}
+.p7{
+    border-style: ridge;
+    color: purple;
+    margin: 300px 100px 25px 25px;
+}
+.p8{
+    border-style: dashed;
+    color: pink;
+    margin-left: auto;
+}
+.p9{
+    border-style: ridge;
+    color: royalblue;
+    margin-bottom: 50px;
+}
+.p10{
+    border-style: double;
+    color: coral;
+    margin: 400px 100px 50px 25px;
+}
