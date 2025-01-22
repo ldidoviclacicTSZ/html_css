@@ -1,0 +1,16 @@
+div{
+    height:200px;
+    width:200px;
+}
+.D1{
+    background-color: pink;
+}   
+.D2{
+    background-color: blue;
+    position: relative;
+    right: 100px;
+
+}
+.D3{
+    background-color: green;
+}

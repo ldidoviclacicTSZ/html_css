@@ -1,0 +1,11 @@
+.p1{
+    padding-right: 500px;
+    padding-left: 40px;
+    border: 10px;
+    margin: 20px 25px;
+    border-color: aqua;
+    border-style: dashed;
+    padding-top: 300px;
+    padding-bottom: 10px;
+    outline: dotted gold;
+}

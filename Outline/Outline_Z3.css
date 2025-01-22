@@ -1,0 +1,17 @@
+p{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Z3Oprvi{
+    outline-width: thick;
+    outline: double;
+    outline-color: red;
+
+}
+.Z3Odrugi{
+    outline: 3px;
+    outline: double;
+    outline-color: green;
+}
